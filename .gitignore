@@ -1,0 +1,6 @@
+bin/
+build/
+*.o
+*.dSYM/
+*.log
+data/
